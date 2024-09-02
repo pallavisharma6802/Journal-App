@@ -2,15 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created an individualised cross-platform mobile application that offered a smooth organisational solution. efficiently scheduled and recorded tasks using a timeline feature, giving users the ability to keep a close eye on both finished and upcoming tasks. To further enhance everyday insights, the app has a notes section. Real-time functionality, supported by Firebase, enhances data storage and security. The project was meticulously crafted using Flutter and Dart, resulting in a responsive and intuitive user interface.
